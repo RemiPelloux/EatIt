@@ -1,2 +1,1 @@
-# EatItProject
-Something secret
+# EatIt
